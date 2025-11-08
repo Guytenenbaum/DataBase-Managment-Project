@@ -1,0 +1,9 @@
+Category_Name,Min_weight,Max_weight
+Flyweight,115,125
+Bantamweight,126,135
+Featherweight,136,145
+Lightweight,146,155
+Welterweight,156,170
+Middleweight,171,185
+Light Heavyweight,186,205
+Heavyweight,206,265

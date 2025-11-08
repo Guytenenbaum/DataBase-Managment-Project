@@ -1,0 +1,125 @@
+Full_name1,Nickname1,Category_name1,Full_name2,Nickname2,Category_name2,Date,Category_of_weight,Place_in_queue
+Tom Evans,Venom,Welterweight,Alex Adams,Storm,Welterweight,2023-11-25,Welterweight,1
+Georges St-Pierre,Rush,Middleweight,Matt Adams,Blaze,Middleweight,2023-11-25,Middleweight,2
+Max Holloway,Blessed,Featherweight,Merab Dvalishvili,The Machine,Featherweight,2023-11-25,Featherweight,3
+Charles Oliveira,Do Bronx,Bantamweight,Alex Adams,Ghost,Bantamweight,2023-11-25,Bantamweight,4
+Luke Adams,Quickfoot,Bantamweight,Chris Evans,Ghost,Bantamweight,2023-11-25,Bantamweight,5
+Sean O’Malley,Sugar,Welterweight,Jake Wilson,Quickfoot,Welterweight,2023-11-25,Welterweight,6
+Alex Brown,Quickfoot,Featherweight,Mike Adams,Nightmare,Featherweight,2023-12-25,Featherweight,1
+Jake Hall,Ghost,Flyweight,Alex Johnson,Sniper,Flyweight,2023-12-25,Flyweight,2
+Josh Evans,The Hammer,Light Heavyweight,Mike Taylor,Blaze,Light Heavyweight,2023-12-25,Light Heavyweight,3
+Mike Wilson,Venom,Middleweight,Luke Brown,The Wolf,Middleweight,2023-12-25,Middleweight,4
+Chris Baker,Venom,Flyweight,Matt Smith,Storm,Flyweight,2023-12-25,Flyweight,5
+Jack Della Maddalena,The Black Bear,Welterweight,Matt Adams,Sniper,Welterweight,2023-12-25,Welterweight,6
+Josh Adams,Quickfoot,Lightweight,Nick Walker,Ghost,Lightweight,2024-01-24,Lightweight,1
+Alex Johnson,Venom,Light Heavyweight,Mike Taylor,Blaze,Light Heavyweight,2024-01-24,Light Heavyweight,2
+Alex Evans,Titan,Middleweight,Tom Evans,Titan,Middleweight,2024-01-24,Middleweight,3
+Alex Johnson,Venom,Light Heavyweight,John Baker,Nightmare,Light Heavyweight,2024-01-24,Light Heavyweight,4
+Chuck Liddell,The Iceman,Featherweight,Alex Wilson,The Hammer,Featherweight,2024-01-24,Featherweight,5
+Matt Baker,Venom,Bantamweight,Luke Adams,Quickfoot,Bantamweight,2024-01-24,Bantamweight,6
+Chris Smith,The Wolf,Featherweight,Jake Baker,The Wolf,Featherweight,2024-02-23,Featherweight,1
+Matt Brown,Titan,Lightweight,Nick Taylor,Ghost,Lightweight,2024-02-23,Lightweight,2
+Georges St-Pierre,Rush,Middleweight,Chris Johnson,Ghost,Middleweight,2024-02-23,Middleweight,3
+Matt Johnson,Ghost,Featherweight,Alex Baker,Titan,Featherweight,2024-02-23,Featherweight,4
+Mike Adams,Nightmare,Featherweight,Alex Baker,Titan,Featherweight,2024-02-23,Featherweight,5
+Jake Smith,The Hammer,Heavyweight,Khabib Nurmagomedov,The Eagle,Heavyweight,2024-02-23,Heavyweight,6
+Khabib Nurmagomedov,The Eagle,Heavyweight,Jake Brown,Venom,Heavyweight,2024-03-24,Heavyweight,1
+Josh Walker,Storm,Middleweight,John Evans,Quickfoot,Middleweight,2024-03-24,Middleweight,2
+Jake Johnson,Titan,Middleweight,Luke Brown,Storm,Middleweight,2024-03-24,Middleweight,3
+Chris Smith,Ghost,Lightweight,Nick Walker,Ghost,Lightweight,2024-03-24,Lightweight,4
+Luke Adams,Quickfoot,Bantamweight,Tom Wilson,Storm,Bantamweight,2024-03-24,Bantamweight,5
+Josh Walker,Nightmare,Featherweight,Alex Wilson,The Hammer,Featherweight,2024-03-24,Featherweight,6
+Royce Gracie,The Hammer,Heavyweight,Chris Wilson,Blaze,Heavyweight,2024-04-23,Heavyweight,1
+Chris Hall,The Hammer,Bantamweight,Tom Brown,The Wolf,Bantamweight,2024-04-23,Bantamweight,2
+Chris Hall,Quickfoot,Bantamweight,Matt Evans,Blaze,Bantamweight,2024-04-23,Bantamweight,3
+Tom Hall,Titan,Middleweight,Josh Walker,Storm,Middleweight,2024-04-23,Middleweight,4
+Matt Walker,Sniper,Middleweight,Tom Evans,Titan,Middleweight,2024-04-23,Middleweight,5
+Tom Brown,Nightmare,Light Heavyweight,Tom Smith,Venom,Light Heavyweight,2024-04-23,Light Heavyweight,6
+Tom Hall,Blaze,Welterweight,Mike Walker,Titan,Welterweight,2024-05-23,Welterweight,1
+Alex Evans,Titan,Middleweight,Jake Johnson,Titan,Middleweight,2024-05-23,Middleweight,2
+Tom Taylor,Blaze,Bantamweight,Josh Smith,Quickfoot,Bantamweight,2024-05-23,Bantamweight,3
+Tom Wilson,Storm,Bantamweight,Charles Oliveira,Do Bronx,Bantamweight,2024-05-23,Bantamweight,4
+Nick Brown,Nightmare,Heavyweight,Matt Wilson,The Hammer,Heavyweight,2024-05-23,Heavyweight,5
+Tom Adams,The Wolf,Featherweight,Mike Adams,Nightmare,Featherweight,2024-05-23,Featherweight,6
+Jake Hall,Ghost,Flyweight,Chris Baker,Venom,Flyweight,2024-06-22,Flyweight,1
+Josh Adams,Quickfoot,Lightweight,Matt Hall,Storm,Lightweight,2024-06-22,Lightweight,2
+Josh Wilson,Ghost,Welterweight,Arman Tsarukyan,Nightmare,Welterweight,2024-06-22,Welterweight,3
+Matt Taylor,The Wolf,Flyweight,Nick Hall,The Wolf,Flyweight,2024-06-22,Flyweight,4
+Dricus Du Plessis,Titan,Flyweight,Chris Baker,Venom,Flyweight,2024-06-22,Flyweight,5
+Tom Brown,Venom,Light Heavyweight,Josh Brown,Storm,Light Heavyweight,2024-06-22,Light Heavyweight,6
+Matt Evans,Venom,Featherweight,Merab Dvalishvili,The Machine,Featherweight,2024-07-22,Featherweight,1
+John Brown,Blaze,Flyweight,Chris Baker,Venom,Flyweight,2024-07-22,Flyweight,2
+Matt Taylor,Blaze,Lightweight,Alexander Volkanovski,The Great,Lightweight,2024-07-22,Lightweight,3
+Mike Adams,Nightmare,Featherweight,Matt Evans,Venom,Featherweight,2024-07-22,Featherweight,4
+Jack Della Maddalena,The Black Bear,Welterweight,Matt Adams,Sniper,Welterweight,2024-07-22,Welterweight,5
+Tom Brown,Sniper,Light Heavyweight,Sean Strickland,Tarzan,Light Heavyweight,2024-07-22,Light Heavyweight,6
+Cory Sandhagen,The Sandman,Flyweight,Matt Adams,Storm,Flyweight,2024-08-21,Flyweight,1
+Mike Smith,The Wolf,Lightweight,Matt Hall,Titan,Lightweight,2024-08-21,Lightweight,2
+John Evans,Storm,Lightweight,Matt Taylor,Blaze,Lightweight,2024-08-21,Lightweight,3
+Mike Johnson,Sniper,Welterweight,Jake Wilson,Quickfoot,Welterweight,2024-08-21,Welterweight,4
+Mike Smith,The Wolf,Lightweight,Nick Wilson,Sniper,Lightweight,2024-08-21,Lightweight,5
+Matt Evans,Venom,Featherweight,Tom Adams,The Wolf,Featherweight,2024-08-21,Featherweight,6
+Jack Della Maddalena,The Black Bear,Welterweight,Tom Evans,Venom,Welterweight,2024-09-20,Welterweight,1
+Josh Smith,Quickfoot,Bantamweight,Chris Hall,The Hammer,Bantamweight,2024-09-20,Bantamweight,2
+Luke Baker,Quickfoot,Bantamweight,Tom Johnson,Quickfoot,Bantamweight,2024-09-20,Bantamweight,3
+John Baker,Blaze,Light Heavyweight,Jake Johnson,Blaze,Light Heavyweight,2024-09-20,Light Heavyweight,4
+Chris Evans,Ghost,Bantamweight,Nick Johnson,Venom,Bantamweight,2024-09-20,Bantamweight,5
+Luke Evans,Storm,Lightweight,Nick Walker,Ghost,Lightweight,2024-09-20,Lightweight,6
+Nick Wilson,Sniper,Lightweight,Matt Taylor,Blaze,Lightweight,2024-10-20,Lightweight,1
+Nick Brown,Storm,Welterweight,Mike Evans,The Wolf,Welterweight,2024-10-20,Welterweight,2
+Jake Walker,Quickfoot,Middleweight,Matt Walker,Sniper,Middleweight,2024-10-20,Middleweight,3
+Tom Adams,Ghost,Lightweight,Josh Adams,Quickfoot,Lightweight,2024-10-20,Lightweight,4
+Alex Baker,Titan,Featherweight,Max Holloway,Blessed,Featherweight,2024-10-20,Featherweight,5
+Matt Baker,Venom,Bantamweight,Alex Adams,Ghost,Bantamweight,2024-10-20,Bantamweight,6
+Alex Adams,Ghost,Bantamweight,Luke Adams,Quickfoot,Bantamweight,2024-11-19,Bantamweight,1
+John Evans,Quickfoot,Middleweight,Matt Walker,Sniper,Middleweight,2024-11-19,Middleweight,2
+Randy Couture,The Natural,Welterweight,Jake Wilson,Quickfoot,Welterweight,2024-11-19,Welterweight,3
+Jake Taylor,Titan,Flyweight,Matt Smith,Storm,Flyweight,2024-11-19,Flyweight,4
+Jake Baker,The Wolf,Featherweight,Mike Taylor,Sniper,Featherweight,2024-11-19,Featherweight,5
+Alex Evans,Titan,Middleweight,Tom Evans,Titan,Middleweight,2024-11-19,Middleweight,6
+Josh Wilson,Ghost,Welterweight,John Wilson,Sniper,Welterweight,2024-12-19,Welterweight,1
+Matt Hall,Titan,Lightweight,John Evans,Storm,Lightweight,2024-12-19,Lightweight,2
+Alex Baker,Titan,Featherweight,Alex Brown,Quickfoot,Featherweight,2024-12-19,Featherweight,3
+Josh Adams,The Wolf,Welterweight,Nick Brown,Storm,Welterweight,2024-12-19,Welterweight,4
+Sean O’Malley,Sugar,Welterweight,John Wilson,The Wolf,Welterweight,2024-12-19,Welterweight,5
+Tom Evans,Titan,Middleweight,Luke Brown,Storm,Middleweight,2024-12-19,Middleweight,6
+Mike Johnson,Sniper,Welterweight,Tom Hall,Blaze,Welterweight,2025-01-18,Welterweight,1
+Tom Brown,Nightmare,Light Heavyweight,Chris Johnson,The Hammer,Light Heavyweight,2025-01-18,Light Heavyweight,2
+Luke Hall,Venom,Light Heavyweight,Alex Johnson,Venom,Light Heavyweight,2025-01-18,Light Heavyweight,3
+Tom Taylor,Blaze,Bantamweight,Charles Oliveira,Do Bronx,Bantamweight,2025-01-18,Bantamweight,4
+Jake Smith,The Hammer,Heavyweight,Jon Jones,Bones,Heavyweight,2025-01-18,Heavyweight,5
+Mike Taylor,Nightmare,Heavyweight,Matt Wilson,The Hammer,Heavyweight,2025-01-18,Heavyweight,6
+Jake Johnson,Blaze,Light Heavyweight,Jake Evans,Storm,Light Heavyweight,2025-02-17,Light Heavyweight,1
+Mike Walker,Ghost,Bantamweight,Nick Johnson,Venom,Bantamweight,2025-02-17,Bantamweight,2
+Tom Brown,The Hammer,Heavyweight,Josh Baker,Quickfoot,Heavyweight,2025-02-17,Heavyweight,3
+Tom Taylor,Blaze,Bantamweight,Tom Brown,The Wolf,Bantamweight,2025-02-17,Bantamweight,4
+Tom Walker,Blaze,Heavyweight,Nick Brown,Nightmare,Heavyweight,2025-02-17,Heavyweight,5
+John Hall,Blaze,Welterweight,Mike Johnson,Sniper,Welterweight,2025-02-17,Welterweight,6
+Jake Evans,Storm,Light Heavyweight,Tom Smith,Venom,Light Heavyweight,2025-03-19,Light Heavyweight,1
+Tom Taylor,Blaze,Bantamweight,Chris Evans,Ghost,Bantamweight,2025-03-19,Bantamweight,2
+Luke Wilson,Sniper,Flyweight,Alex Johnson,Sniper,Flyweight,2025-03-19,Flyweight,3
+John Evans,Storm,Lightweight,Matt Hall,Storm,Lightweight,2025-03-19,Lightweight,4
+Nick Hall,The Hammer,Welterweight,John Wilson,Sniper,Welterweight,2025-03-19,Welterweight,5
+Alex Evans,Ghost,Light Heavyweight,Chris Johnson,The Hammer,Light Heavyweight,2025-03-19,Light Heavyweight,6
+Alex Walker,The Wolf,Heavyweight,Royce Gracie,The Hammer,Heavyweight,2025-04-18,Heavyweight,1
+Tom Taylor,Blaze,Bantamweight,Charles Oliveira,Do Bronx,Bantamweight,2025-04-18,Bantamweight,2
+Matt Taylor,The Wolf,Flyweight,John Brown,Blaze,Flyweight,2025-04-18,Flyweight,3
+Randy Couture,The Natural,Welterweight,Mike Johnson,Sniper,Welterweight,2025-04-18,Welterweight,4
+Nick Taylor,Ghost,Lightweight,Matt Taylor,Blaze,Lightweight,2025-04-18,Lightweight,5
+Tom Hall,Titan,Middleweight,Josh Walker,Storm,Middleweight,2025-04-18,Middleweight,6
+Chris Wilson,Blaze,Heavyweight,Alex Walker,The Wolf,Heavyweight,2025-05-18,Heavyweight,1
+Mike Smith,Nightmare,Light Heavyweight,Josh Brown,Storm,Light Heavyweight,2025-05-18,Light Heavyweight,2
+Alex Hall,Sniper,Flyweight,Dricus Du Plessis,Titan,Flyweight,2025-05-18,Flyweight,3
+Jake Smith,Venom,Middleweight,Jake Johnson,Titan,Middleweight,2025-05-18,Middleweight,4
+John Hall,Blaze,Welterweight,Josh Adams,The Wolf,Welterweight,2025-05-18,Welterweight,5
+Tom Walker,Blaze,Heavyweight,Nick Brown,Nightmare,Heavyweight,2025-05-18,Heavyweight,6
+Tom Adams,Ghost,Lightweight,Alex Hall,Quickfoot,Lightweight,2025-06-17,Lightweight,1
+Tom Adams,Ghost,Lightweight,Nick Walker,Ghost,Lightweight,2025-06-17,Lightweight,2
+Luke Baker,Quickfoot,Bantamweight,Charles Oliveira,Do Bronx,Bantamweight,2025-06-17,Bantamweight,3
+Tom Adams,Ghost,Lightweight,Matt Smith,Venom,Lightweight,2025-06-17,Lightweight,4
+Charles Oliveira,Do Bronx,Bantamweight,Luke Adams,Quickfoot,Bantamweight,2025-06-17,Bantamweight,5
+Luke Adams,Quickfoot,Bantamweight,Chris Hall,The Hammer,Bantamweight,2025-06-17,Bantamweight,6
+Adam Prime,Alpha,Lightweight,Bruno Silva,Jaguar,Lightweight,2024-10-20,Lightweight,7
+Adam Prime,Alpha,Lightweight,Bruno Silva,Jaguar,Lightweight,2025-02-17,Lightweight,7
+Adam Prime,Alpha,Lightweight,Liam Stone,Thunder,Lightweight,2024-12-19,Lightweight,7
+Adam Prime,Alpha,Lightweight,Liam Stone,Thunder,Lightweight,2025-03-19,Lightweight,7
