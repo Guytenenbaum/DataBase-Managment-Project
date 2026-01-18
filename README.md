@@ -145,7 +145,7 @@ For each fighter that meets the conditions, it outputs:
 - `NOT EXISTS (...)` ensures the fighter does **not** appear in any fight whose date is in the future (`fut.Date > CAST(GETDATE() AS date)`), by checking `Fights_against` for that future fight.
 
 **Interpretation:**  
-This query finds older, active fighters who repeatedly failed in title fights (≥2 losses) and currently have **no future bout booked** — useful for identifying fighters who might be “stuck” or need matchmaking decisions.
+This query finds older, active fighters who repeatedly failed in title fights (≥2 losses) and currently have **no future bout booked** - useful for identifying fighters who might be “stuck” or need matchmaking decisions.
 
 ---
 
