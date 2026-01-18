@@ -192,9 +192,7 @@ This produces a scouting-style list of young, highly ranked fighters from top MM
 **Goal (matches the requirement):**  
 Compute a **volatility / stability measure** for each weight class based on how often the champion changes across consecutive title fights:
 
-\[
-Volatility = \frac{\#\text{Champion changes}}{\#\text{Title fights} - 1}
-\]
+Volatility = (# Champion changes) / (# Title fights − 1)
 
 Then return only categories with:
 - at least **3** title fights, and
