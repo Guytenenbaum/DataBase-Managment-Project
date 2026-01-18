@@ -2,7 +2,6 @@
 
 A relational database project for modeling the **Ultimate Fighting Championship (UFC)** organization: fighters (active/retired), weight classes, events, and fights — including business rules like PPV constraints, title fights, and “GOAT discussion” validation.
 
-> Built as part of a Database Management course alternative assessment.
 
 ---
 
